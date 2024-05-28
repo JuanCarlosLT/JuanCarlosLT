@@ -1,4 +1,9 @@
-## Hi there 👋
+<div id="header" aling="center">
+    <h1 aling="center"> Hi 👋, I'm Juan Carlos</h1>
+    <h3 aling="center"> Soy un programador muy amistodos, honesto y responsable, mi Skill es el desarrollo móvil con el
+        framework Ionic y angular, quiero aprender mas lenguajes de programación,
+        Me gusta escuchar musica electronica, jugar futbol y jugar videojuegos. </h3>
+</div>
 
 <!--
 **JuanCarlosLT/JuanCarlosLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
