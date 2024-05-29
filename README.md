@@ -1,6 +1,8 @@
-<h1>Hi 👋, I'm Juan Carlos</h1>
-<p> I am a very friendly, honest and responsible programmer, my skill is mobile development with the Ionic and Angular framework, I want to learn more programming languages, I like to listen to electronic music, play soccer and play video games.</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1 aling="center">Hi 👋, I'm Juan Carlos</h1>
+<p aling="center"> 
+  Soy un desarrollador👨🏽‍💻 apasionado, amigable, responsable, honesto y titulado con entusiasmo a aprende nuevos lenguajes de programación, Actualmente mi skill es el desarrollando en Ionic framework con Angular esta herramienta es hibrida así como otros frameworks, también tengo unas skills básicas como lo es base de datos y manejando de distintos sistemas operativos como Windows y MacOS, juego futbol⚽️, escucho musica electrónica🎧 y también me apasionan los videojuegos🎮 pero mas los de estrategia y de la edad media.
+</p>
+<h2>🚀 Lenguajes y herramientas que uso</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
